@@ -3,11 +3,10 @@
     Layout = null;
     @Scripts.Render("~/bundles/jquery");
     @Styles.Render("~/Content/css");
-
     bool showError = ViewBag.ShowError;
 }
 
-<script>
+@*<script>
     $(document).ready(function(){
 
         $('#btnSubmit').click(function() {
@@ -24,15 +23,15 @@
 
 
     });
-</script>
+</script>*@
 <div class="container">
     <div class="row">
         <div class="col-md-12">
             <center><h1 style="margin-top:200px">Hello!</h1></center>
-            @if (showError)
+            @if (ViewBag.ShowError)
             {
-                <center style="color:red">Invalid Credential....Please Login with True Credential</center>
-                <script>Swal();</script>
+                <center style="color:red">Invalid Credential....Please Login with Valid Credential</center>
+                <script>alert();</script>
             }
             <div class="col-md-12">
                 <div class="col-md-3"></div>
@@ -70,11 +69,11 @@
                         </div>
                         <div class="form-actions">
                             <center>
-                                <span id="btnSubmit" style="padding-left:200px;padding-right:200px;" class="btn green">
+                                <button type="submit" id="btnSubmit" style="padding-left:200px;padding-right:200px;" class="btn green">
 
                                     submit
 
-                                </span>
+                                </button>
                             </center>
                         </div>
                     </form>
@@ -84,4 +83,5 @@
 
             </div>
         </div>
+</div>
 </div>
