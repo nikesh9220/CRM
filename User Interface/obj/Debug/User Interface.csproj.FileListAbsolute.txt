@@ -183,6 +183,6 @@ D:\par\CRM\User Interface\bin\Microsoft.AI.WindowsServer.xml
 D:\par\CRM\User Interface\bin\Microsoft.AI.Web.xml
 D:\par\CRM\User Interface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\par\CRM\User Interface\bin\OnBoardCRM.DL.pdb
+D:\par\CRM\User Interface\obj\Debug\User Interface.csprojResolveAssemblyReference.cache
 D:\par\CRM\User Interface\obj\Debug\User Interface.dll
 D:\par\CRM\User Interface\obj\Debug\User Interface.pdb
-D:\par\CRM\User Interface\obj\Debug\User Interface.csprojResolveAssemblyReference.cache

@@ -26,10 +26,10 @@ C:\Code\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csproj.CoreCompileInputs.cache
 C:\Code\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csproj.CopyComplete
 C:\Code\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.dll
 C:\Code\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.pdb
-D:\par\CRM\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csprojResolveAssemblyReference.cache
 D:\par\CRM\OnBoardCRM.BL\bin\Debug\OnBoardCRM.BL.dll
 D:\par\CRM\OnBoardCRM.BL\bin\Debug\OnBoardCRM.BL.pdb
 D:\par\CRM\OnBoardCRM.BL\bin\Debug\OnBoardCRM.DL.dll
 D:\par\CRM\OnBoardCRM.BL\bin\Debug\OnBoardCRM.DL.pdb
+D:\par\CRM\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csprojResolveAssemblyReference.cache
 D:\par\CRM\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.dll
 D:\par\CRM\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.pdb
