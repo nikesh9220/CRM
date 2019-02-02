@@ -1,0 +1,35 @@
+$('.categoryDescription').each(function(index){
+if($('.categoryDescription')[index].innerText == "")
+{
+	$(this).remove();
+}
+})
+
+
+ var i = 0;
+                var a = $('.categoryDescription').length;
+                $('.categoryDescription').each(function () {
+                    debugger;
+                    if (i < a) {
+                        if ($('.categoryDescription')[i].innerText == "") {
+
+                            $(this).parent().remove();
+
+                        }
+                    }
+
+                    i = i + 1;
+                })
+				var test=$('.categoryDescription').length
+				$('.categoryDescription').each(function (i) {
+				debugger;
+				Var test=$('.categoryDescription').length
+				if(i<test-1){
+				if ($('.categoryDescription')[i].innerText == "") {
+							debugger;
+                            $(this).remove();
+
+                        }
+				}
+				
+				})
