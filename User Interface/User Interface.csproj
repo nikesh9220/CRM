@@ -147,6 +147,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\ClientController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\MainController.cs" />
     <Compile Include="Global.asax.cs">
@@ -4888,6 +4889,7 @@
     <Content Include="Content\Themes\assets\global\scripts\app.min.js" />
     <Content Include="Content\Themes\assets\global\scripts\datatable.js" />
     <Content Include="Content\Themes\assets\global\scripts\datatable.min.js" />
+    <Content Include="Content\Themes\assets\global\scripts\Jquery.js" />
     <Content Include="Content\Themes\assets\layouts\global\scripts\cookie-consent.js" />
     <Content Include="Content\Themes\assets\layouts\global\scripts\cookie-consent.min.js" />
     <Content Include="Content\Themes\assets\layouts\global\scripts\hor-timeline.js" />
@@ -6441,6 +6443,8 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Login.cshtml" />
     <Content Include="Views\Main\Index.cshtml" />
+    <Content Include="Views\Client\Index.cshtml" />
+    <Content Include="Views\Client\NewClientForm.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -49,7 +49,7 @@ namespace OnBoardCRM.BL.Common
             }
         }
 
-        virtual internal void FillEntity(DataRow dr) => throw new NotImplementedException();
+        virtual internal void FillEntity(DataRow dr) { throw new NotImplementedException(); }
 
         public void Create()
         {

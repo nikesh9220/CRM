@@ -17,3 +17,28 @@ C:\CRM\CRM\OnBoardCRM.BL\bin\Debug\OnBoardCRM.DL.dll
 C:\CRM\CRM\OnBoardCRM.BL\bin\Debug\OnBoardCRM.DL.pdb
 C:\CRM\CRM\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csproj.CopyComplete
 C:\CRM\CRM\OnBoardCRM.BL\bin\Debug\OnBoardCRM.DL.dll.config
+C:\Code\OnBoardCRM.BL\bin\Debug\OnBoardCRM.BL.dll
+C:\Code\OnBoardCRM.BL\bin\Debug\OnBoardCRM.BL.pdb
+C:\Code\OnBoardCRM.BL\bin\Debug\OnBoardCRM.DL.dll
+C:\Code\OnBoardCRM.BL\bin\Debug\OnBoardCRM.DL.pdb
+C:\Code\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csprojAssemblyReference.cache
+C:\Code\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csproj.CoreCompileInputs.cache
+C:\Code\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csproj.CopyComplete
+C:\Code\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.dll
+C:\Code\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.pdb
+D:\par\CRM\OnBoardCRM.BL\bin\Debug\OnBoardCRM.BL.dll
+D:\par\CRM\OnBoardCRM.BL\bin\Debug\OnBoardCRM.BL.pdb
+D:\par\CRM\OnBoardCRM.BL\bin\Debug\OnBoardCRM.DL.dll
+D:\par\CRM\OnBoardCRM.BL\bin\Debug\OnBoardCRM.DL.pdb
+D:\par\CRM\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csprojResolveAssemblyReference.cache
+D:\par\CRM\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.dll
+D:\par\CRM\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.pdb
+D:\Final GIt\OnBoardCRM.BL\bin\Debug\OnBoardCRM.BL.dll
+D:\Final GIt\OnBoardCRM.BL\bin\Debug\OnBoardCRM.BL.pdb
+D:\Final GIt\OnBoardCRM.BL\bin\Debug\OnBoardCRM.DL.dll
+D:\Final GIt\OnBoardCRM.BL\bin\Debug\OnBoardCRM.DL.pdb
+D:\Final GIt\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csprojAssemblyReference.cache
+D:\Final GIt\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csproj.CoreCompileInputs.cache
+D:\Final GIt\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csproj.CopyComplete
+D:\Final GIt\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.dll
+D:\Final GIt\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.pdb

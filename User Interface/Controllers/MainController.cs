@@ -11,7 +11,33 @@ namespace User_Interface.Controllers
         // GET: Main
         public ActionResult Index()
         {
+            ViewBag.ShowError = false;
             return View();
+        }
+
+        public ActionResult LoginCheck(FormCollection collection)
+        {
+            string userName = collection["username"];
+            string password = collection["password"];
+
+
+            OnBoardCRM.BL.Models.UserAccount loggedInUser;
+            //bool retVal = OnBoardCRM.BL.Models.UserAccountManager.AuthenticateUser(userName, password, out loggedInUser);
+            bool retVal = false;
+
+            if (retVal)
+            {
+               // Session[userName] = loggedInUser;
+                return View("Dashboard");
+            }
+            else
+            {
+                ViewBag.ShowError = true;
+                return View("Index");
+            }
+
+
+           // return View("Index");
         }
     }
 }
