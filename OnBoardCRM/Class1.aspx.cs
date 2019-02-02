@@ -11,7 +11,9 @@ namespace OnBoardCRM
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            OnBoardCRM.BL.Class1 obj = new BL.Class1();
+            BL.Models.UserAccount loggedInUser;
+            bool retVal = BL.Models.UserAccountManager.AuthenticateUser("MasterAdmin", "admin@123", out loggedInUser);
+
         }
     }
 }
