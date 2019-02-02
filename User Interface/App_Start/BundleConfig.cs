@@ -13,7 +13,8 @@ namespace User_Interface
                        "~/Content/Themes/assets/global/scripts/datatable.js",
                        "~/Content/Themes/assets/global/scripts/app.min.js",
                        "~/Content/Themes/assets/global/scripts/app.js",
-                       "~/Content/Themes/assets/global/plugins/bootstrap/js/bootstrap.js"
+                       "~/Content/Themes/assets/global/plugins/bootstrap/js/bootstrap.js",
+                       "~/Content/Themes/assets/global/scripts/Jquery.js"
 
 
                        ));

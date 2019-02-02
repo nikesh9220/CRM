@@ -43,6 +43,10 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Common\ModelHelper.cs" />
+    <Compile Include="Common\Utilities.cs" />
+    <Compile Include="Models\Client.cs" />
+    <Compile Include="Models\Domain.cs" />
+    <Compile Include="Models\Product.cs" />
     <Compile Include="Models\UserAccount.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
