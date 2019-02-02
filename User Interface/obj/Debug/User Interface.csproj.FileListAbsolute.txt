@@ -1,3 +1,5 @@
+C:\Code\User Interface\obj\Debug\User Interface.csprojAssemblyReference.cache
+C:\Code\User Interface\obj\Debug\User Interface.csproj.CoreCompileInputs.cache
 C:\Code\User Interface\bin\ApplicationInsights.config
 C:\Code\User Interface\bin\User Interface.dll.config
 C:\Code\User Interface\bin\User Interface.dll
@@ -88,8 +90,6 @@ C:\Code\User Interface\bin\Microsoft.AI.WindowsServer.xml
 C:\Code\User Interface\bin\Microsoft.AI.Web.xml
 C:\Code\User Interface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Code\User Interface\bin\OnBoardCRM.DL.pdb
-C:\Code\User Interface\obj\Debug\User Interface.csprojAssemblyReference.cache
-C:\Code\User Interface\obj\Debug\User Interface.csproj.CoreCompileInputs.cache
 C:\Code\User Interface\obj\Debug\User Interface.csproj.CopyComplete
 C:\Code\User Interface\obj\Debug\User Interface.dll
 C:\Code\User Interface\obj\Debug\User Interface.pdb
