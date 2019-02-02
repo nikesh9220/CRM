@@ -11,3 +11,8 @@ C:\CRM\CRM\OnBoardCRM.DL\obj\Debug\OnBoardCRM.DL.pdb
 C:\CRM\CRM\OnBoardCRM.DL\bin\Debug\OnBoardCRM.DL.dll
 C:\CRM\CRM\OnBoardCRM.DL\bin\Debug\OnBoardCRM.DL.pdb
 C:\CRM\CRM\OnBoardCRM.DL\bin\Debug\OnBoardCRM.DL.dll.config
+D:\par\CRM\OnBoardCRM.DL\bin\Debug\OnBoardCRM.DL.dll.config
+D:\par\CRM\OnBoardCRM.DL\bin\Debug\OnBoardCRM.DL.dll
+D:\par\CRM\OnBoardCRM.DL\bin\Debug\OnBoardCRM.DL.pdb
+D:\par\CRM\OnBoardCRM.DL\obj\Debug\OnBoardCRM.DL.dll
+D:\par\CRM\OnBoardCRM.DL\obj\Debug\OnBoardCRM.DL.pdb
