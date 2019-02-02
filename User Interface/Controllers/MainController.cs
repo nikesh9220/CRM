@@ -22,33 +22,22 @@ namespace User_Interface.Controllers
 
 
             OnBoardCRM.BL.Models.UserAccount loggedInUser;
-            bool retVal = OnBoardCRM.BL.Models.UserAccountManager.AuthenticateUser(userName, password, out loggedInUser);
-          //  bool retVal = false;
+            //bool retVal = OnBoardCRM.BL.Models.UserAccountManager.AuthenticateUser(userName, password, out loggedInUser);
+            bool retVal = false;
 
             if (retVal)
             {
-                Session["UserID"] = loggedInUser;
-                return RedirectToAction("UserDashBoard");
+               // Session[userName] = loggedInUser;
+                return View("Dashboard");
             }
             else
             {
                 ViewBag.ShowError = true;
-                //return RedirectToAction("Index");
                 return View("Index");
             }
 
 
            // return View("Index");
-        }
-        public ActionResult UserDashBoard()
-        {
-            if (Session["UserID"] != null)
-            {
-                return View();
-            } else
-            {
-                return RedirectToAction("Index");
-            }
         }
     }
 }
