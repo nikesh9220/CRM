@@ -1,0 +1,95 @@
+C:\Code\User Interface\bin\ApplicationInsights.config
+C:\Code\User Interface\bin\User Interface.dll.config
+C:\Code\User Interface\bin\User Interface.dll
+C:\Code\User Interface\bin\User Interface.pdb
+C:\Code\User Interface\bin\roslyn\csc.exe
+C:\Code\User Interface\bin\roslyn\csc.exe.config
+C:\Code\User Interface\bin\roslyn\csc.rsp
+C:\Code\User Interface\bin\roslyn\csi.exe
+C:\Code\User Interface\bin\roslyn\csi.exe.config
+C:\Code\User Interface\bin\roslyn\csi.rsp
+C:\Code\User Interface\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Code\User Interface\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Code\User Interface\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Code\User Interface\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Code\User Interface\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Code\User Interface\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Code\User Interface\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Code\User Interface\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Code\User Interface\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Code\User Interface\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Code\User Interface\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Code\User Interface\bin\roslyn\System.AppContext.dll
+C:\Code\User Interface\bin\roslyn\System.Collections.Immutable.dll
+C:\Code\User Interface\bin\roslyn\System.Console.dll
+C:\Code\User Interface\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Code\User Interface\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Code\User Interface\bin\roslyn\System.IO.Compression.dll
+C:\Code\User Interface\bin\roslyn\System.IO.FileSystem.dll
+C:\Code\User Interface\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Code\User Interface\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Code\User Interface\bin\roslyn\System.IO.Pipes.dll
+C:\Code\User Interface\bin\roslyn\System.Reflection.Metadata.dll
+C:\Code\User Interface\bin\roslyn\System.Security.AccessControl.dll
+C:\Code\User Interface\bin\roslyn\System.Security.Claims.dll
+C:\Code\User Interface\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Code\User Interface\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Code\User Interface\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Code\User Interface\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Code\User Interface\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Code\User Interface\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Code\User Interface\bin\roslyn\System.ValueTuple.dll
+C:\Code\User Interface\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Code\User Interface\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Code\User Interface\bin\roslyn\System.Xml.XPath.dll
+C:\Code\User Interface\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Code\User Interface\bin\roslyn\vbc.exe
+C:\Code\User Interface\bin\roslyn\vbc.exe.config
+C:\Code\User Interface\bin\roslyn\vbc.rsp
+C:\Code\User Interface\bin\roslyn\VBCSCompiler.exe
+C:\Code\User Interface\bin\roslyn\VBCSCompiler.exe.config
+C:\Code\User Interface\bin\Antlr3.Runtime.dll
+C:\Code\User Interface\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Code\User Interface\bin\Microsoft.AI.DependencyCollector.dll
+C:\Code\User Interface\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Code\User Interface\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Code\User Interface\bin\Microsoft.AI.Web.dll
+C:\Code\User Interface\bin\Microsoft.AI.WindowsServer.dll
+C:\Code\User Interface\bin\Microsoft.ApplicationInsights.dll
+C:\Code\User Interface\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Code\User Interface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Code\User Interface\bin\Microsoft.Web.Infrastructure.dll
+C:\Code\User Interface\bin\Newtonsoft.Json.dll
+C:\Code\User Interface\bin\OnBoardCRM.BL.dll
+C:\Code\User Interface\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Code\User Interface\bin\System.Web.Helpers.dll
+C:\Code\User Interface\bin\System.Web.Mvc.dll
+C:\Code\User Interface\bin\System.Web.Optimization.dll
+C:\Code\User Interface\bin\System.Web.Razor.dll
+C:\Code\User Interface\bin\System.Web.WebPages.Deployment.dll
+C:\Code\User Interface\bin\System.Web.WebPages.dll
+C:\Code\User Interface\bin\System.Web.WebPages.Razor.dll
+C:\Code\User Interface\bin\WebGrease.dll
+C:\Code\User Interface\bin\OnBoardCRM.DL.dll
+C:\Code\User Interface\bin\OnBoardCRM.BL.pdb
+C:\Code\User Interface\bin\System.Web.Helpers.xml
+C:\Code\User Interface\bin\System.Web.Mvc.xml
+C:\Code\User Interface\bin\System.Web.Optimization.xml
+C:\Code\User Interface\bin\System.Web.Razor.xml
+C:\Code\User Interface\bin\System.Web.WebPages.xml
+C:\Code\User Interface\bin\System.Web.WebPages.Deployment.xml
+C:\Code\User Interface\bin\System.Web.WebPages.Razor.xml
+C:\Code\User Interface\bin\Newtonsoft.Json.xml
+C:\Code\User Interface\bin\Antlr3.Runtime.pdb
+C:\Code\User Interface\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Code\User Interface\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Code\User Interface\bin\Microsoft.AI.DependencyCollector.xml
+C:\Code\User Interface\bin\Microsoft.AI.WindowsServer.xml
+C:\Code\User Interface\bin\Microsoft.AI.Web.xml
+C:\Code\User Interface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Code\User Interface\bin\OnBoardCRM.DL.pdb
+C:\Code\User Interface\obj\Debug\User Interface.csprojAssemblyReference.cache
+C:\Code\User Interface\obj\Debug\User Interface.csproj.CoreCompileInputs.cache
+C:\Code\User Interface\obj\Debug\User Interface.csproj.CopyComplete
+C:\Code\User Interface\obj\Debug\User Interface.dll
+C:\Code\User Interface\obj\Debug\User Interface.pdb
