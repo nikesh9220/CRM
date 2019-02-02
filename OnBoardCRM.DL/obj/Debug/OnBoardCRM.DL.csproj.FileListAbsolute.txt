@@ -1,0 +1,6 @@
+D:\Projects\OnboardCRM\OnBoardCRM\OnBoardCRM.DL\bin\Debug\OnBoardCRM.DL.dll
+D:\Projects\OnboardCRM\OnBoardCRM\OnBoardCRM.DL\bin\Debug\OnBoardCRM.DL.pdb
+D:\Projects\OnboardCRM\OnBoardCRM\OnBoardCRM.DL\obj\Debug\OnBoardCRM.DL.csprojAssemblyReference.cache
+D:\Projects\OnboardCRM\OnBoardCRM\OnBoardCRM.DL\obj\Debug\OnBoardCRM.DL.csproj.CoreCompileInputs.cache
+D:\Projects\OnboardCRM\OnBoardCRM\OnBoardCRM.DL\obj\Debug\OnBoardCRM.DL.dll
+D:\Projects\OnboardCRM\OnBoardCRM\OnBoardCRM.DL\obj\Debug\OnBoardCRM.DL.pdb

@@ -1,0 +1,9 @@
+D:\Projects\OnboardCRM\OnBoardCRM\OnBoardCRM.BL\bin\Debug\OnBoardCRM.BL.dll
+D:\Projects\OnboardCRM\OnBoardCRM\OnBoardCRM.BL\bin\Debug\OnBoardCRM.BL.pdb
+D:\Projects\OnboardCRM\OnBoardCRM\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csprojAssemblyReference.cache
+D:\Projects\OnboardCRM\OnBoardCRM\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csproj.CoreCompileInputs.cache
+D:\Projects\OnboardCRM\OnBoardCRM\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.dll
+D:\Projects\OnboardCRM\OnBoardCRM\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.pdb
+D:\Projects\OnboardCRM\OnBoardCRM\OnBoardCRM.BL\bin\Debug\OnBoardCRM.DL.dll
+D:\Projects\OnboardCRM\OnBoardCRM\OnBoardCRM.BL\bin\Debug\OnBoardCRM.DL.pdb
+D:\Projects\OnboardCRM\OnBoardCRM\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csproj.CopyComplete
