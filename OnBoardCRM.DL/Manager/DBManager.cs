@@ -26,7 +26,6 @@ namespace OnBoardCRM.DL.Manager
                     using (SqlCommand cmd = new SqlCommand(spName, con))
                     {
                         cmd.CommandType = CommandType.StoredProcedure;
-
                         cmd.Parameters.AddRange(parameters);
 
                         con.Open();
@@ -55,6 +54,7 @@ namespace OnBoardCRM.DL.Manager
                         using (SqlDataAdapter da = new SqlDataAdapter(cmd))
                         {
                             cmd.CommandType = CommandType.StoredProcedure;
+                            cmd.Parameters.AddRange(parameters);
                             da.Fill(retObj);
                         }
                     }
