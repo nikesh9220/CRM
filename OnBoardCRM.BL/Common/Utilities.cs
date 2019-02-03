@@ -31,12 +31,15 @@ namespace OnBoardCRM.BL.Common
         public static object XMLDeserialize(string req, Type type)
         {
             object retObject = null;
-            XmlSerializer serializer = new XmlSerializer(type);
-
-            StreamReader reader = new StreamReader(req);
-            reader.ReadToEnd();
-            retObject = serializer.Deserialize(reader);
-            reader.Close();
+            //XmlSerializer serializer = new XmlSerializer(type);
+            XmlDocument xDoc = new XmlDocument();
+            xDoc.LoadXml(req);
+              XmlNodeReader xNodeReader= new XmlNodeReader(xDoc.DocumentElement);;
+            //StreamReader reader = new StreamReader(req);
+            XmlSerializer xmlSerializer  = new XmlSerializer(type);
+            //reader.ReadToEnd();
+            retObject =  xmlSerializer.Deserialize(xNodeReader);;
+           // reader.Close();
 
             return retObject;
         }

@@ -42,3 +42,14 @@ D:\Final GIt\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csproj.CoreCompileInputs.cach
 D:\Final GIt\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csproj.CopyComplete
 D:\Final GIt\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.dll
 D:\Final GIt\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.pdb
+D:\Final GIt\OnBoardCRM.BL\bin\Debug\OnBoardCRM.DL.dll.config
+C:\Users\nikesh.pandya\Downloads\OnBoardCRM\Final GIt\OnBoardCRM.BL\bin\Debug\OnBoardCRM.BL.dll
+C:\Users\nikesh.pandya\Downloads\OnBoardCRM\Final GIt\OnBoardCRM.BL\bin\Debug\OnBoardCRM.BL.pdb
+C:\Users\nikesh.pandya\Downloads\OnBoardCRM\Final GIt\OnBoardCRM.BL\bin\Debug\OnBoardCRM.DL.dll
+C:\Users\nikesh.pandya\Downloads\OnBoardCRM\Final GIt\OnBoardCRM.BL\bin\Debug\OnBoardCRM.DL.pdb
+C:\Users\nikesh.pandya\Downloads\OnBoardCRM\Final GIt\OnBoardCRM.BL\bin\Debug\OnBoardCRM.DL.dll.config
+C:\Users\nikesh.pandya\Downloads\OnBoardCRM\Final GIt\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csprojAssemblyReference.cache
+C:\Users\nikesh.pandya\Downloads\OnBoardCRM\Final GIt\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csproj.CoreCompileInputs.cache
+C:\Users\nikesh.pandya\Downloads\OnBoardCRM\Final GIt\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.csproj.CopyComplete
+C:\Users\nikesh.pandya\Downloads\OnBoardCRM\Final GIt\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.dll
+C:\Users\nikesh.pandya\Downloads\OnBoardCRM\Final GIt\OnBoardCRM.BL\obj\Debug\OnBoardCRM.BL.pdb

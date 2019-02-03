@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnBoardCRM", "OnBoardCRM\OnBoardCRM.csproj", "{32D5F6B3-C3A1-4450-8B22-A0049C801C8E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnBoardCRM.BL", "OnBoardCRM.BL\OnBoardCRM.BL.csproj", "{4421094D-CA94-4335-B5A8-FBD91138D9CE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnBoardCRM.DL", "OnBoardCRM.DL\OnBoardCRM.DL.csproj", "{385E7DCB-30A9-46CF-A87C-A1D32B684866}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User Interface", "User Interface\User Interface.csproj", "{D7E31E9F-639F-470D-8B7E-87D315CBE2F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnBoardCRM.UI", "User Interface\OnBoardCRM.UI.csproj", "{D7E31E9F-639F-470D-8B7E-87D315CBE2F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{32D5F6B3-C3A1-4450-8B22-A0049C801C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{32D5F6B3-C3A1-4450-8B22-A0049C801C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{32D5F6B3-C3A1-4450-8B22-A0049C801C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{32D5F6B3-C3A1-4450-8B22-A0049C801C8E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4421094D-CA94-4335-B5A8-FBD91138D9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4421094D-CA94-4335-B5A8-FBD91138D9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4421094D-CA94-4335-B5A8-FBD91138D9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
