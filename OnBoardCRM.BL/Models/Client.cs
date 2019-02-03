@@ -16,7 +16,7 @@ namespace OnBoardCRM.BL.Models
         public int CreatedBy { get; set; }
         public DateTime CreatedOn { get; set; }
         public Product[] SubscribedProducts { get; set; }
-                
+
         internal override void ManageEntity()
         {
             this.sqlParams = new List<SqlParameter>();
@@ -25,7 +25,7 @@ namespace OnBoardCRM.BL.Models
             this.sqlParams.Add(new SqlParameter("@ClientName", this.ClientName));
             this.sqlParams.Add(new SqlParameter("@CreatedBy", this.CreatedBy));
             this.sqlParams.Add(new SqlParameter("@CreatedOn", this.CreatedOn));
-            this.sqlParams.Add(new SqlParameter("@SubscribedProducts", string.Join(",", this.SubscribedProducts.Select(p => p.ProductID))));
+            this.sqlParams.Add(new SqlParameter("@SubscribedProducts", this.SubscribedProducts?.Length > 0 ? Common.Utilities.XMLSerialize(this.SubscribedProducts, typeof(Product[])) : null));
 
             this.spName = "ManageClient";
             base.ManageEntity();
@@ -41,8 +41,7 @@ namespace OnBoardCRM.BL.Models
             string products = Convert.ToString(dr["SubscribedProducts"]);
             if (!string.IsNullOrWhiteSpace(products))
             {
-                string[] temp = products.Split(',');
-                this.SubscribedProducts = temp.Select(t => new Product() { ProductID = int.Parse(t) }).ToArray();
+                this.SubscribedProducts = (Product[])Common.Utilities.XMLDeserialize(products, typeof(Product[]));
             }
         }
     }

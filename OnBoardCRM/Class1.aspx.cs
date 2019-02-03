@@ -11,9 +11,52 @@ namespace OnBoardCRM
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            BL.Models.UserAccount loggedInUser;
-            bool retVal = BL.Models.UserAccountManager.AuthenticateUser("MasterAdmin", "admin@123", out loggedInUser);
+            BL.Models.Client client = new BL.Models.Client() {
+                ClientName = "Gujarat Technologocal University",
+                CreatedBy = 1,
+                CreatedOn = DateTime.Now,
+                SubscribedProducts = new[]
+                {
+                    new BL.Models.Product()
+                    {
+                        ProductName = "Plans",
+                        RefTemplate = "Plans_Template",
+                        Domains = new[]
+                        {
+                            new BL.Models.Domain()
+                            {
+                                DomainName = "PT",
+                                StubName = "GTU_Plans_PT"
+                            },
+                            new BL.Models.Domain()
+                            {
+                                DomainName = "OT",
+                                StubName = "GTU_Plans_OT"
+                            }
+                        }
+                    },
+                    new BL.Models.Product()
+                    {
+                        ProductName = "Steps",
+                        RefTemplate = "Steps_Template",
+                        Domains = new[]
+                        {
+                            new BL.Models.Domain()
+                            {
+                                DomainName = "PT",
+                                StubName = "GTU_Steps_PT"
+                            },
+                            new BL.Models.Domain()
+                            {
+                                DomainName = "OT",
+                                StubName = "GTU_Steps_OT"
+                            }
+                        }
+                    }
+                }
+            };
 
+            client.Create();
         }
     }
 }
