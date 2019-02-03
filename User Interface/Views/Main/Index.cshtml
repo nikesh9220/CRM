@@ -3,24 +3,34 @@
     Layout = null;
     @Scripts.Render("~/bundles/jquery");
     @Styles.Render("~/Content/css");
-
     bool showError = ViewBag.ShowError;
 }
 
 <script>
-    $(document).ready(function(){
+    $(document).ready(function () {
+        //$.ajax({
+        //    type: "POST",
+        //    url: $('#userloginform').attr('action'),
+        //    data: $('#userloginform').serialize(),
+        //    dataType: "json",
+        //    success: function (response) {
+        //        location.reload(true);
+        //    }
+        //});
+        //$('#btnSubmit').click(function () {
+        //    debugger;
+        //   // $('#userloginform').submit();
 
-        $('#btnSubmit').click(function() {
-            $.ajax({
-                type: "POST",
-                url: $('#userloginform').attr('action'),
-                data: $('#userloginform').serialize(),
-                dataType: "json",
-                //success: function (response) {
+        //    //$.ajax({
+        //    //    type: "POST",
+        //    //    url: $('#userloginform').attr('action'),
+        //    //    data: $('#userloginform').serialize(),
+        //    //    dataType: "json",
+        //    //    //success: function (response) {
 
-                //}
-            });
-        });
+        //    //    //}
+        //    //});
+        //});
 
 
     });
@@ -29,15 +39,14 @@
     <div class="row">
         <div class="col-md-12">
             <center><h1 style="margin-top:200px">Hello!</h1></center>
-            @if (showError)
+            @if (ViewBag.ShowError)
             {
-                <center style="color:red">Invalid Credential....Please Login with True Credential</center>
-                <script>Swal();</script>
+                <center style="color:red">Invalid Credential....Please Login with Valid Credential</center>
             }
             <div class="col-md-12">
                 <div class="col-md-3"></div>
                 <div class="col-md-6">
-                    <form id="userloginform" action="/Main/LoginCheck" class="form-horizontal">
+                    <form id="userloginform" action="/Main/LoginCheck" method="post" class="form-horizontal">
                         <div class="form-body">
                             <div class="form-group">
                                 @*<label class="col-md-3 control-label">User Name</label>*@
@@ -45,7 +54,7 @@
                                     <div class="form-group">
                                         <div class="col-md-12">
                                             <div class="input-group">
-                                                <input type="email" id="userName" name="username" class="form-control input-circle-left" placeholder="User Name">
+                                               <input type="text" id="userName" name="username" class="form-control input-circle-left" placeholder="User Name">
                                                 <span class="input-group-addon input-circle-right">
                                                     <i class="fa fa-user"></i>
                                                 </span>
@@ -70,11 +79,11 @@
                         </div>
                         <div class="form-actions">
                             <center>
-                                <span id="btnSubmit" style="padding-left:200px;padding-right:200px;" class="btn green">
+                                <button type="submit" id="btnSubmit" style="padding-left:200px;padding-right:200px;" class="btn green">
 
                                     submit
 
-                                </span>
+                                </button>
                             </center>
                         </div>
                     </form>
@@ -84,4 +93,5 @@
 
             </div>
         </div>
+</div>
 </div>
