@@ -25,7 +25,7 @@ namespace OnBoardCRM.BL.Models
             this.sqlParams.Add(new SqlParameter("@ClientName", this.ClientName));
             this.sqlParams.Add(new SqlParameter("@CreatedBy", this.CreatedBy));
             this.sqlParams.Add(new SqlParameter("@CreatedOn", this.CreatedOn));
-            this.sqlParams.Add(new SqlParameter("@SubscribedProducts", string.Join(",", this.SubscribedProducts.Select(p => p.ProductID))));
+            this.sqlParams.Add(new SqlParameter("@SubscribedProducts", string.Join(",", this.SubscribedProducts?.Select(p => p.ProductID))));
 
             this.spName = "ManageClient";
             base.ManageEntity();
@@ -49,7 +49,7 @@ namespace OnBoardCRM.BL.Models
 
     public class ClientManager
     {
-        public static Client[] SearchClient(NameValueCollection coll)
+        public static Client[] SearchClients(NameValueCollection coll)
         {
             List<Client> retVal = new List<Client>();
             List<SqlParameter> sqlParams = new List<SqlParameter>();

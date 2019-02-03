@@ -1,0 +1,78 @@
+﻿
+@{
+    Layout = null;
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    @Scripts.Render("~/bundles/jquery")
+    @Styles.Render("~/Content/css")
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    <div class="col-md-8">
+        <div class="portlet light ">
+            <div class="col-lg-12">
+               
+                <div class="col-md-2">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Client Name">
+                        <span class="input-group-btn">
+                            <button class="btn blue" type="button">Go!</button>
+                        </span>
+                    </div>
+                </div>
+                <div class="pull-right">
+                    <a style="font-size:large" href="/Client/AddNewCLient"><span class="fa fa-plus"></span>&nbsp; Client</a>
+                </div>
+            </div>
+            <br />
+            <br />
+            <div class="portlet-body">
+                <div class="tab-content">
+                    <div class="tab-pane active" id="tab_actions_pending">
+                        <!-- BEGIN: Actions -->
+                        <div class="mt-actions">
+                            <div class="mt-action">
+                                <div class="mt-action-body">
+                                    <div class="mt-action-row">
+                                        <div class="mt-action-info ">
+                                            <div class="mt-action-icon ">
+                                                <i class="icon-magnet"></i>
+                                            </div>
+                                            <div class="mt-action-details ">
+                                                <span class="mt-action-author">Augusta University</span>
+                                                <p class="mt-action-desc">
+                                                    <div>
+                                                        <span style="background-color:red" class="badge badge-danger">&nbsp;</span>  Augustine - CCS &nbsp;
+                                                        <span style="background-color:forestgreen" class="badge badge-success">&nbsp;</span>&nbsp; St. Augustine - STEPS &nbsp;
+                                                        <span  style="background-color:orangered" class="badge badge-success">&nbsp;</span>&nbsp; St. Augustine - STEPS &nbsp;
+                                                    </div>
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="mt-action-datetime ">
+                                            <span class="mt-action-date" style="color:black">PT,OT Program</span>
+                                            <span @*class="mt-action-dot bg-green"*@>|</span>
+                                            <span class="mt=action-time" style="color:black">CCS,<font color="grey">PLAN</font>,STEPS</span>
+                                        </div>
+                                    
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- END: Actions -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    
+</body>
+</html>

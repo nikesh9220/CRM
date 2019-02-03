@@ -11,3 +11,9 @@ C:\CRM\CRM\OnBoardCRM.DL\obj\Debug\OnBoardCRM.DL.pdb
 C:\CRM\CRM\OnBoardCRM.DL\bin\Debug\OnBoardCRM.DL.dll
 C:\CRM\CRM\OnBoardCRM.DL\bin\Debug\OnBoardCRM.DL.pdb
 C:\CRM\CRM\OnBoardCRM.DL\bin\Debug\OnBoardCRM.DL.dll.config
+D:\Project\CRM\OnBoardCRM.DL\bin\Debug\OnBoardCRM.DL.dll.config
+D:\Project\CRM\OnBoardCRM.DL\bin\Debug\OnBoardCRM.DL.dll
+D:\Project\CRM\OnBoardCRM.DL\bin\Debug\OnBoardCRM.DL.pdb
+D:\Project\CRM\OnBoardCRM.DL\obj\Debug\OnBoardCRM.DL.csprojResolveAssemblyReference.cache
+D:\Project\CRM\OnBoardCRM.DL\obj\Debug\OnBoardCRM.DL.dll
+D:\Project\CRM\OnBoardCRM.DL\obj\Debug\OnBoardCRM.DL.pdb

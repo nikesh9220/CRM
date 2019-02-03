@@ -93,3 +93,96 @@ C:\Code\User Interface\bin\OnBoardCRM.DL.pdb
 C:\Code\User Interface\obj\Debug\User Interface.csproj.CopyComplete
 C:\Code\User Interface\obj\Debug\User Interface.dll
 C:\Code\User Interface\obj\Debug\User Interface.pdb
+D:\Project\CRM\User Interface\bin\ApplicationInsights.config
+D:\Project\CRM\User Interface\bin\User Interface.dll.config
+D:\Project\CRM\User Interface\bin\User Interface.dll
+D:\Project\CRM\User Interface\bin\User Interface.pdb
+D:\Project\CRM\User Interface\bin\roslyn\csc.exe
+D:\Project\CRM\User Interface\bin\roslyn\csc.exe.config
+D:\Project\CRM\User Interface\bin\roslyn\csc.rsp
+D:\Project\CRM\User Interface\bin\roslyn\csi.exe
+D:\Project\CRM\User Interface\bin\roslyn\csi.exe.config
+D:\Project\CRM\User Interface\bin\roslyn\csi.rsp
+D:\Project\CRM\User Interface\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\CRM\User Interface\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\CRM\User Interface\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\CRM\User Interface\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\CRM\User Interface\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\CRM\User Interface\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\CRM\User Interface\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\CRM\User Interface\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\CRM\User Interface\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\CRM\User Interface\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\CRM\User Interface\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\CRM\User Interface\bin\roslyn\System.AppContext.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.Console.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.IO.Compression.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.IO.Pipes.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.Security.AccessControl.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.Security.Claims.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.ValueTuple.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.Xml.XPath.dll
+D:\Project\CRM\User Interface\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\CRM\User Interface\bin\roslyn\vbc.exe
+D:\Project\CRM\User Interface\bin\roslyn\vbc.exe.config
+D:\Project\CRM\User Interface\bin\roslyn\vbc.rsp
+D:\Project\CRM\User Interface\bin\roslyn\VBCSCompiler.exe
+D:\Project\CRM\User Interface\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\CRM\User Interface\bin\Antlr3.Runtime.dll
+D:\Project\CRM\User Interface\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Project\CRM\User Interface\bin\Microsoft.AI.DependencyCollector.dll
+D:\Project\CRM\User Interface\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Project\CRM\User Interface\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Project\CRM\User Interface\bin\Microsoft.AI.Web.dll
+D:\Project\CRM\User Interface\bin\Microsoft.AI.WindowsServer.dll
+D:\Project\CRM\User Interface\bin\Microsoft.ApplicationInsights.dll
+D:\Project\CRM\User Interface\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Project\CRM\User Interface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\CRM\User Interface\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\CRM\User Interface\bin\Newtonsoft.Json.dll
+D:\Project\CRM\User Interface\bin\OnBoardCRM.BL.dll
+D:\Project\CRM\User Interface\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Project\CRM\User Interface\bin\System.Web.Helpers.dll
+D:\Project\CRM\User Interface\bin\System.Web.Mvc.dll
+D:\Project\CRM\User Interface\bin\System.Web.Optimization.dll
+D:\Project\CRM\User Interface\bin\System.Web.Razor.dll
+D:\Project\CRM\User Interface\bin\System.Web.WebPages.Deployment.dll
+D:\Project\CRM\User Interface\bin\System.Web.WebPages.dll
+D:\Project\CRM\User Interface\bin\System.Web.WebPages.Razor.dll
+D:\Project\CRM\User Interface\bin\WebGrease.dll
+D:\Project\CRM\User Interface\bin\OnBoardCRM.DL.dll
+D:\Project\CRM\User Interface\bin\OnBoardCRM.BL.pdb
+D:\Project\CRM\User Interface\bin\System.Web.Helpers.xml
+D:\Project\CRM\User Interface\bin\System.Web.Mvc.xml
+D:\Project\CRM\User Interface\bin\System.Web.Optimization.xml
+D:\Project\CRM\User Interface\bin\System.Web.Razor.xml
+D:\Project\CRM\User Interface\bin\System.Web.WebPages.xml
+D:\Project\CRM\User Interface\bin\System.Web.WebPages.Deployment.xml
+D:\Project\CRM\User Interface\bin\System.Web.WebPages.Razor.xml
+D:\Project\CRM\User Interface\bin\Newtonsoft.Json.xml
+D:\Project\CRM\User Interface\bin\Antlr3.Runtime.pdb
+D:\Project\CRM\User Interface\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Project\CRM\User Interface\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Project\CRM\User Interface\bin\Microsoft.AI.DependencyCollector.xml
+D:\Project\CRM\User Interface\bin\Microsoft.AI.WindowsServer.xml
+D:\Project\CRM\User Interface\bin\Microsoft.AI.Web.xml
+D:\Project\CRM\User Interface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\CRM\User Interface\bin\OnBoardCRM.DL.pdb
+D:\Project\CRM\User Interface\obj\Debug\User Interface.csprojResolveAssemblyReference.cache
+D:\Project\CRM\User Interface\obj\Debug\User Interface.dll
+D:\Project\CRM\User Interface\obj\Debug\User Interface.pdb
