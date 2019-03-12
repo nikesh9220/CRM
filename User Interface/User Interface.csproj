@@ -4888,6 +4888,7 @@
     <Content Include="Content\Themes\assets\global\scripts\app.min.js" />
     <Content Include="Content\Themes\assets\global\scripts\datatable.js" />
     <Content Include="Content\Themes\assets\global\scripts\datatable.min.js" />
+    <Content Include="Content\Themes\assets\global\scripts\Jquery.js" />
     <Content Include="Content\Themes\assets\layouts\global\scripts\cookie-consent.js" />
     <Content Include="Content\Themes\assets\layouts\global\scripts\cookie-consent.min.js" />
     <Content Include="Content\Themes\assets\layouts\global\scripts\hor-timeline.js" />
